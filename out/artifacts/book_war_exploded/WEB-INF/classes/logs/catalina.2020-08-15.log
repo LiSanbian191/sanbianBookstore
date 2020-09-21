@@ -1,0 +1,45 @@
+15-Aug-2020 09:35:22.132 严重 [main] org.apache.catalina.startup.Catalina.stopServer 无法联系[localhost:8005]（基端口[8005]和偏移量[0]）。Tomcat可能不在运行。
+15-Aug-2020 09:35:32.568 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/10.0.0-M7
+15-Aug-2020 09:35:32.598 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        Jun 30 2020 17:11:04 UTC
+15-Aug-2020 09:35:32.603 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(:     10.0.0.0
+15-Aug-2020 09:35:32.604 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+15-Aug-2020 09:35:32.606 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+15-Aug-2020 09:35:32.607 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+15-Aug-2020 09:35:32.608 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\DevelopmentTool\Java\jdk-14.0.1
+15-Aug-2020 09:35:32.609 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    14.0.1+7
+15-Aug-2020 09:35:32.610 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+15-Aug-2020 09:35:32.613 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7
+15-Aug-2020 09:35:32.624 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7
+15-Aug-2020 09:35:32.659 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.lang=ALL-UNNAMED
+15-Aug-2020 09:35:32.661 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.io=ALL-UNNAMED
+15-Aug-2020 09:35:32.664 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Aug-2020 09:35:32.664 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.config.file=C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\conf\logging.properties
+15-Aug-2020 09:35:32.665 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Aug-2020 09:35:32.666 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djdk.tls.ephemeralDHKeySize=2048
+15-Aug-2020 09:35:32.669 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+15-Aug-2020 09:35:32.670 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dignore.endorsed.dirs=
+15-Aug-2020 09:35:32.673 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.base=C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7
+15-Aug-2020 09:35:32.682 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.home=C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7
+15-Aug-2020 09:35:32.683 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.io.tmpdir=C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\temp
+15-Aug-2020 09:35:32.711 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.24]。
+15-Aug-2020 09:35:32.713 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+15-Aug-2020 09:35:32.760 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1g  21 Apr 2020]
+15-Aug-2020 09:35:33.989 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+15-Aug-2020 09:35:34.105 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[2465]毫秒内初始化
+15-Aug-2020 09:35:34.276 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+15-Aug-2020 09:35:34.280 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/10.0.0-M7]
+15-Aug-2020 09:35:34.330 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\book]
+15-Aug-2020 09:35:35.595 警告 [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[130]毫秒。
+15-Aug-2020 09:35:35.693 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\book]的部署已在[1,364]毫秒内完成
+15-Aug-2020 09:35:35.695 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\docs]
+15-Aug-2020 09:35:35.967 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\docs]的部署已在[271]毫秒内完成
+15-Aug-2020 09:35:35.976 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\examples]
+15-Aug-2020 09:35:41.254 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\examples]的部署已在[5,279]毫秒内完成
+15-Aug-2020 09:35:41.259 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\host-manager]
+15-Aug-2020 09:35:41.527 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\host-manager]的部署已在[268]毫秒内完成
+15-Aug-2020 09:35:41.529 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\manager]
+15-Aug-2020 09:35:41.717 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\manager]的部署已在[187]毫秒内完成
+15-Aug-2020 09:35:41.720 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\ROOT]
+15-Aug-2020 09:35:41.928 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\DevelopmentPlantform\apache-tomcat-10.0.0-M7\webapps\ROOT]的部署已在[207]毫秒内完成
+15-Aug-2020 09:35:41.964 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+15-Aug-2020 09:35:42.166 信息 [main] org.apache.catalina.startup.Catalina.start [8057]毫秒后服务器启动
